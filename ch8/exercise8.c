@@ -1,3 +1,4 @@
+// the code is from spencerpomme in github.
 #include <stdio.h>
 #include <ctype.h>
 char get_choice(void);
